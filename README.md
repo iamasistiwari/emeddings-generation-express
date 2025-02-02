@@ -77,6 +77,3 @@ You can also get the Docker image directly:
 ```sh
 docker pull asisserver/embeddings
 ```
-
-## License
-This project is licensed under the MIT License.
