@@ -1,5 +1,5 @@
 # Express Backend for Generating Embeddings
-
+API-https://embeddings-server.ashishtiwari.net?token=${token}
 ## Overview
 This is an Express.js-based backend that generates text embeddings using the `Xenova/all-MiniLM-L6-v2` model from Hugging Face. The API validates user tokens, accepts text input, and returns numerical embeddings.
 
