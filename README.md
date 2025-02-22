@@ -26,7 +26,7 @@ This is an Express.js-based backend that generates text embeddings using the `Xe
    ```sh
    npm run dev
    ```
-   The server runs on **port 4000** by default.
+   The server runs on **port 7078** by default.
 
 ## API Endpoints
 
@@ -70,7 +70,7 @@ This is an Express.js-based backend that generates text embeddings using the `Xe
 To build and run with Docker:
 ```sh
 docker build -t embeddings-api .
-docker run -p 4000:4000 embeddings-api
+docker run -p 7078:7078 embeddings-api
 ```
 
 You can also get the Docker image directly:
